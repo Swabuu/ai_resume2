@@ -24,7 +24,7 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/Swabuu",
 }
 PROJECTS = {
-    ":calling: mccmnc.se - Webscraped mobile network operator data. Includes subscriber counts and network owners as well as the technology used": "https://www.mcccmnc.se/",
+    ":calling: mccmnc.se - Webscraped mobile network operator data. Includes subscriber counts and network owners as well as the technology used": "https://mccmnc.se/",
     ":iphone: A simple Android application which parses incoming SMS messages and sends the Sender ID, MSISDN (destination), SMS Body and SMSC-address to an external webservice": "https://github.com/Swabuu/testunit"
 
 }
