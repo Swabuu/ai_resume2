@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Anton Ivarsson"
 PAGE_ICON = ":wave:"
 NAME = "Anton Ivarsson"
 DESCRIPTION = """
-Telecom Enthusiast | Business Analyst | Python Programming Hobbyist
+Cooking something great | Telecom Enthusiast | Ex-Twilio
 """
 EMAIL = "antonivarsson@proton.me"
 SOCIAL_MEDIA = {
