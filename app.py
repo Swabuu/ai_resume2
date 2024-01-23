@@ -187,7 +187,7 @@ st.write(
 
 # --- JOB 3
 st.write("#")
-st.write("🚧", "**Manager, Routing & Product @ Sipstatus Communications Srl**")
+st.write("🚧", "**Manager, Routing & Product @ Sipstatus Communications Srl** | Bucharest, Romania")
 st.write("02/2020 - 08/2020")
 st.write(
     """
@@ -197,7 +197,7 @@ st.write(
 
 # --- JOB 4
 st.write("#")
-st.write("🚧", "**CTO | Soatso AB**")
+st.write("🚧", "**CTO | Soatso AB** | Lachen, Switzerland")
 st.write("07/2019 - 01/2020")
 st.write(
     """
