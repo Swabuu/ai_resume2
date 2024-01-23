@@ -78,13 +78,28 @@ st.write("#")
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 10 Years experience working with or for Mobile Network Operators
+- ✔️ 12 Years experience working with or for Mobile Network Operators
 - ✔️ Strong hands on experience and knowledge in Python and Excel
 - ✔️ Good understanding of mobile networks, the SS7 stack and mobile operator elements
 - ✔️ Excellent at troubleshooting and finding insightful data and a way to share them with others 
 """
 )
 
+
+# --- About ---
+
+st.write("#")
+st.subheader("About")
+st.write(
+    """
+    #SS7 #A2P #SMS #SMPP
+
+Hi! I'm Anton! 
+
+I'm a telecom enthusiast interested in everything related to mobile networks, A2P (Application-to-Person) SMS and the wholesale messaging community. I'm also very passionate about data (everything from acquiring data, cleaning it and building something beautiful out of it) and learning new technologies.
+
+Professionally I've been both technically and commercially active since 2013, working in the same broader business but for a few different companies, doing a bit of everything. I believe that having a broad understanding of how things work gives you the unique ability to see things that others might not. 
+    """)
 
 # --- SKILLS ---
 st.write("#")
@@ -114,9 +129,46 @@ st.write("#")
 st.subheader("Work History")
 st.write("---")
 
+# --- JOB 0
+st.write("🚧", "**Head of Signaling & Fraud Prevention @ Adeo Telecom** | Stockholm, Sweden")
+st.write("10/2023 - 12/2023")
+st.write(
+    """
+- ► A2P SMS Messaging Strategy: Develop and implement strategies for Application-to-Person (A2P) SMS messaging, optimizing yield management and revenue management.
+- ► SS7 Stack Optimization: Utilise expertise in SS7 stack optimization to enhance network efficiency.
+- ► Increase Coverage: Work towards expanding the network coverage to reach a wider audience.
+- ► Carrier Relations: Foster and manage strong relationships with carriers, ensuring smooth operations and maximising coverage.
+- ► Business Development: Identify and pursue opportunities for business expansion and growth in the A2P SMS industry.
+- ► Commercial Way Forward: Contribute to the development of commercial strategies to drive the Company's success.
+"""
+)
+
+# --- JOB 0
+st.write("🚧", "**Routing Manager @ Tele2 Group** | Stockholm, Sweden")
+st.write("03/2023 - 08/2023")
+st.write(
+    """
+- ► Develop and support new and existing products to maximize quality, profitability and revenue.
+- ► Determine the pricing strategy and positioning of the product line, locally and globally.
+- ► Collaborate with the messaging team and partners/suppliers to ensure best offerings for Tele2 partners and assure smooth day-to-day system operations.
+- ► Test/implement supplier routes, and review cost/supplier changes to make corresponding routing decisions.
+- ► Prepare and distribute reports on trends and new opportunities that arise.
+- ► Collect, process and analyze data to identify cost-saving and quality improvement opportunities.
+- ► Engage frequently with Account Managers to help build up traffic and support the sales team by providing relevant data and recommendations.
+- ► Improving the routing quality, resulting in increased customer satisfaction and reduced churn rate.
+- ► Successfully formulating pricing strategies that is boosting product quality, profitability and revenue.
+- ► Automating pricelist format conversion and upload, resulting in reduced manual labor and errors.
+- ► Implementing quality assurance processes and procedures that improves product quality and reliability.
+- ► Maintaining strong supplier relationships that enables fast escalation and resolution of routing failures.
+- ► Conducting in-depth traffic analysis that leads to the discovery of new revenue opportunities.
+- ► Playing a key role in developing and launching new products that meets partner needs and expectations.
+- ► Collaborating with cross-functional teams to deliver outstanding service to partners and drive business growth.
+"""
+)
+
 # --- JOB 1
-st.write("🚧", "**Yield Manager | Twilio Inc.**")
-st.write("01/2021 - Present")
+st.write("🚧", "**Yield Manager @ Twilio Inc.** | San Fransisco, California, USA")
+st.write("01/2021 - 12/2022")
 st.write(
     """
 - ► In each given moment, and over time, maximize the revenue and GP$ yield harvested from Twilio’s largest messaging accounts for the EMEA market by optimizing the utilization of available routing options.
@@ -125,7 +177,7 @@ st.write(
 #- ► Responsible for EMEA 
 # --- JOB 2
 st.write("#")
-st.write("🚧", "**International Messaging Specialist | Twilio Inc.**")
+st.write("🚧", "**International Messaging Specialist @ Twilio Inc.** | San Fransisco, California, USA")
 st.write("08/2020 - 01/2021")
 st.write(
     """
@@ -135,7 +187,7 @@ st.write(
 
 # --- JOB 3
 st.write("#")
-st.write("🚧", "**Manager, Routing & Product | Sipstatus Communications Srl**")
+st.write("🚧", "**Manager, Routing & Product @ Sipstatus Communications Srl**")
 st.write("02/2020 - 08/2020")
 st.write(
     """
@@ -163,7 +215,7 @@ incredible toolbox to maximize reach and longevity with a team designed to be st
 
 # --- JOB 5
 st.write("#")
-st.write("🚧", "**Director, Business Development | Calltrade Carrier Services AG**")
+st.write("🚧", "**Director, Business Development @ Calltrade Carrier Services AG | Altendorf, Switzerland**")
 st.write("03/2017 - 07/2019")
 st.write(
     """
@@ -176,7 +228,7 @@ st.write(
 
 # --- JOB 6
 st.write("#")
-st.write("🚧", "**Routing Manager, International Carrier Business & A2P | Tele2 Group**")
+st.write("🚧", "**Routing Manager, International Carrier Business & A2P @ Tele2 Group**")
 st.write("08/2016 - 03/2017")
 st.write(
     """
@@ -190,7 +242,7 @@ st.write(
 
 # --- JOB 7
 st.write("#")
-st.write("🚧", "**Financial SMS Analyst, International Carrier Business & A2P | Tele2 Group**")
+st.write("🚧", "**Financial SMS Analyst, International Carrier Business & A2P @ Tele2 Group**")
 st.write("04/2016 - 08/2016")
 st.write(
     """
@@ -204,7 +256,7 @@ st.write(
 
 # --- JOB 8
 st.write("#")
-st.write("🚧", "**Support Technician | Bosbec AB**")
+st.write("🚧", "**Support Technician @ Bosbec AB**")
 st.write("01/2015 - 04/2016")
 st.write(
     """
@@ -218,7 +270,7 @@ st.write(
 
 # --- JOB 9
 st.write("#")
-st.write("🚧", "**Routing Officer | Fortytwo.**")
+st.write("🚧", "**Routing Officer @ Fortytwo.** | St Julian's Malta")
 st.write("01/2015 - 04/2016")
 st.write(
     """
@@ -267,7 +319,8 @@ Software Development Engineer, [Sinch](https://www.sinch.com/).
 st.write("---")
 
 st.markdown('''
-**Daniela Jovic**  
+**Daniela Jovic** | COO at [Spacemanic](https://www.spacemanic.com/) - We make access to space as easy as ordering a cab! 🛰 Project Captain of the first Croatian satellite: CroCube 📡 #nanosatellite #CubeSat #newspace #spacetechnology #spaceindustry 🚀
+
 Working on a global market in the telecom and mobile industry since 2011. 
 > "When it comes to telecommunications, Anton has it all... He represents a great combination of technical and commercial. He can help you with SS7 and SMPP just as much as he can help with creating a great business strategy. What I like about working with Anton the most is, he is always very professional, ready to help... and never boring! Very much like myself, Anton belongs to the group of people for whom SMS and telecommunications became a passion in life. And trust me, he truly is a valuable member of the SMS/telco community."
 ''')
